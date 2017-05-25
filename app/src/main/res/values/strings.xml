@@ -1,3 +1,187 @@
 <resources>
-    <string name="app_name">SKY.LMSSend</string>
+    <string name="app_name">GateWare</string>
+    <string name="error_toast">오류가 발생했습니다. 개발자에게 오류 내용을 보내주세요.</string>
+    <string name="back_finish">BACK 버튼을 한번더 누르시면 종료됩니다.</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="decrease"><![CDATA[<]]></string>
+    <string name="increase"><![CDATA[>]]></string>
+    <string name="zero">0</string>
+
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+
+
+
+
+    <!-- 한국어 -->
+
+    <string name="netword_error">네트워크가 원활하지 않습니다.\n다시 시도해주세요.</string>  //
+    <string name="login_input">아이디 혹은 비밀번호를 입력해주세요.</string>
+    <string name="alert_ok">확인</string>//
+    <string name="login_error">데이터 불러오는데 문제가 생겼습니다.\n다시 시도해주세요.</string>
+    <string name="login_error_0">모든 정보를 입력해주세요.</string>//
+    <string name="login_error_1">아이디 혹은 비밀번호가 일치 하지 않습니다.</string>
+    <string name="login_error_2">비밀번호가 맞지 않습니다.</string> //
+    <string name="login_error_3">해당 이메일을 사용할 수 없습니다.</string>
+    <string name="login_error_4">이메일을 인증해주세요.</string>
+    <string name="join_error_0">EMAIL은 필수 입력입니다.</string>
+    <string name="join_error_1">비밀번호가 일치하지 않습니다.\n다시확인해주세요.</string>
+    <string name="join_error_2">해당 이메일로 작업원을 찾을 수 없습니다.</string>
+    <string name="join_error_3">이메일을 확인해주세요.</string>
+    <string name="join_ok">회원가입이 진행중입니다.\n이메일을 인증해주세요.</string>
+    <string name="login_hint_1">아이디를 입력해주세요.</string>
+    <string name="login_hint_2">비밀번호를 입력해주세요.</string>
+    <string name="login_check_1">아이디 저장</string>
+    <string name="login_check_2">자동 로그인</string>
+    <string name="login_btn_1">LOGIN</string>
+    <string name="login_btn_2">Create Account</string>
+    <string name="myprofile_txt_1">상세정보</string>
+    <string name="myprofile_txt_2">주소</string>
+    <string name="myprofile_txt_3">작업원 연락처(Mobile)</string>
+    <string name="myprofile_txt_4">연락처</string>
+    <string name="myprofile_txt_5">생년월일</string>
+    <string name="myprofile_txt_6">혈액형</string>
+    <string name="project_txt_1">프로젝트</string>
+    <string name="userdaystatus_txt_1">출근 상세 정보</string>
+    <string name="userdaystatus_txt_2">00시간 00분</string>
+    <string name="slide_txt_1">프로젝트 선택</string>
+    <string name="slide_txt_2">입퇴장 관리</string>
+    <string name="slide_txt_3">로그아웃</string>
+
+    <string name="start_in_txt">최초 출역일:</string>
+    <string name="end_in_txt">최종 출역일:</string>
+    <string name="total_txt">전체 출역일:</string>
+    <string name="in_out_controll_txt">입퇴장 관리</string>
+    <string name="time_txt">시간</string>
+    <string name="min_txt">분</string>
+    <string name="mon_txt">월</string>
+    <string name="tue_txt">화</string>
+    <string name="wed_txt">수</string>
+    <string name="thu_txt">목</string>
+    <string name="fri_txt">금</string>
+    <string name="sat_txt">토</string>
+    <string name="sun_txt">일</string>
+    <string name="login_email_txt">이메일을 입력해 주세요.</string>
+    <string name="ok_txt">확인</string>
+    <string name="join_txt">회원가입</string>
+        <string name="no_data">출근정보 없음</string>
+
+    <!-- 일어 -->
+    <!-- message -->
+    <string name="jp_netword_error">ネットワークの状況が不安定です。\n再度やり直して下さい。</string>  //
+    <string name="jp_login_input">ユーザーIDあるいはパスワードを入力して下さい。</string>
+    <string name="jp_alert_ok">確認</string>//
+    <string name="jp_login_error">データー読み込み中、問題が発生しました。\n再度やり直して下さい。</string>
+    <string name="jp_login_error_0">全ての情報を入力してください。</string>//
+    <string name="jp_login_error_1">ユーザーIDあるいはパスワードが一致しません。</string>
+    <string name="jp_login_error_2">パスワードが一致しません。</string> //
+    <string name="jp_login_error_3">該当するIDが存在しません。</string>
+    <string name="jp_login_error_4">メールアドレスを認証して下さい。</string>
+    <string name="jp_join_error_0">メールアドレスは必須入力です。</string>
+    <string name="jp_join_error_1">パスワードが一致しません。\n再度確認して下さい。</string>
+    <string name="jp_join_error_2">当該メールアドレスで作業員検索出来ません。</string>
+    <string name="jp_join_error_3">メールアドレスを確認して下さい。</string>
+    <string name="jp_join_ok">会員登録中です。\nメールアドレスを認証して下さい。</string>
+    <string name="jp_login_hint_1">IDを入力して下さい。</string>
+    <string name="jp_login_hint_2">暗証番号を入力してください。</string>
+    <string name="jp_login_check_1">ID保存</string>
+    <string name="jp_login_check_2">自動ログイン</string>
+    <string name="jp_login_btn_1">LOGIN</string>
+    <string name="jp_login_btn_2">Create Account</string>
+    <string name="jp_myprofile_txt_1">詳細情報</string>
+    <string name="jp_myprofile_txt_2">住所</string>
+    <string name="jp_myprofile_txt_3">作業員の連絡先（Mobile）</string>
+    <string name="jp_myprofile_txt_4">連絡先</string>
+    <string name="jp_myprofile_txt_5">生年月日</string>
+    <string name="jp_myprofile_txt_6">血液型</string>
+    <string name="jp_project_txt_1">プロジェクト</string>
+    <string name="jp_userdaystatus_txt_1">出勤詳細情報</string>
+    <string name="jp_userdaystatus_txt_2">00時間00</string>
+    <string name="jp_slide_txt_1">プロジェクト</string>
+    <string name="jp_slide_txt_2">入退場管理</string>
+
+    <string name="jp_start_in_txt">最初入退場日:</string>
+    <string name="jp_end_in_txt">最後入退場日:</string>
+    <string name="jp_total_txt">総合入退場日:</string>
+    <string name="jp_in_out_controll_txt">入退場管理</string>
+    <string name="jp_time_txt">時間</string>
+    <string name="jp_min_txt">分</string>
+    <string name="jp_mon_txt">月</string>
+    <string name="jp_tue_txt">火</string>
+    <string name="jp_wed_txt">水</string>
+    <string name="jp_thu_txt">木</string>
+    <string name="jp_fri_txt">金</string>
+    <string name="jp_sat_txt">土</string>
+    <string name="jp_sun_txt">日</string>
+    <string name="jp_login_email_txt">メールアドレスを入力して下さい。</string>
+    <string name="jp_ok_txt">確認</string>
+    <string name="jp_join_txt">会員登録</string>
+
+
+
+    <!--
+    <string name="netword_error">ネットワークの状況が不安定です。\n再度やり直して下さい。</string>  //
+    <string name="login_input">ユーザーIDあるいはパスワードを入力して下さい。</string>
+    <string name="alert_ok">確認</string>//
+    <string name="login_error">データー読み込み中、問題が発生しました。\n再度やり直して下さい。</string>
+    <string name="login_error_0">全ての情報を入力してください。</string>//
+    <string name="login_error_1">ユーザーIDあるいはパスワードが一致しません。</string>
+    <string name="login_error_2">パスワードが一致しません。</string> //
+    <string name="login_error_3">該当するIDが存在しません。</string>
+    <string name="login_error_4">メールアドレスを認証して下さい。</string>
+    <string name="join_error_0">メールアドレスは必須入力です。</string>
+    <string name="join_error_1">パスワードが一致しません。\n再度確認して下さい。</string>
+    <string name="join_error_2">当該メールアドレスで作業員検索出来ません。</string>
+    <string name="join_error_3">メールアドレスを確認して下さい。</string>
+    <string name="join_ok">会員登録中です。\nメールアドレスを認証して下さい。</string>
+    <string name="login_hint_1">IDを入力して下さい。</string>
+    <string name="login_hint_2">暗証番号を入力してください。</string>
+    <string name="login_check_1">ID保存</string>
+    <string name="login_check_2">自動ログイン</string>
+    <string name="login_btn_1">LOGIN</string>
+    <string name="login_btn_2">Create Account</string>
+    <string name="myprofile_txt_1">詳細情報</string>
+    <string name="myprofile_txt_2">住所</string>
+    <string name="myprofile_txt_3">作業員の連絡先（Mobile）</string>
+    <string name="myprofile_txt_4">連絡先</string>
+    <string name="myprofile_txt_5">生年月日</string>
+    <string name="myprofile_txt_6">血液型</string>
+    <string name="project_txt_1">プロジェクト</string>
+    <string name="userdaystatus_txt_1">出勤詳細情報</string>
+    <string name="userdaystatus_txt_2">00時間00</string>
+    <string name="slide_txt_1">プロジェクト</string>
+    <string name="slide_txt_2">入退場管理</string>
+
+    <string name="start_in_txt">最初入退場日:</string>
+    <string name="end_in_txt">最後入退場日:</string>
+    <string name="total_txt">総合入退場日:</string>
+    <string name="in_out_controll_txt">入退場管理</string>
+    <string name="time_txt">時間</string>
+    <string name="min_txt">分</string>
+    <string name="mon_txt">月</string>
+    <string name="tue_txt">火</string>
+    <string name="wed_txt">水</string>
+    <string name="thu_txt">木</string>
+    <string name="fri_txt">金</string>
+    <string name="sat_txt">土</string>
+    <string name="sun_txt">日</string>
+    <string name="login_email_txt">メールアドレスを入力して下さい。</string>
+    <string name="ok_txt">確認</string>
+    <string name="join_txt">会員登録</string>
+    <string name="slide_txt_3">로그아웃</string>
+
+
+
+    <string name="no_data">출근정보 없음</string>
+    -->
+
+    <string name="loading_txt">Loading......</string>
+
 </resources>
